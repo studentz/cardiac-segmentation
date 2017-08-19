@@ -1,5 +1,5 @@
 # Cardiac Segmentation
-python code for segmentation of cardiac cavities.
+Python code for segmentation of cardiac cavities.
 
 The code will facilitate the parsing of Dicom files and contour files with
 coordinates for ventricular segmentation.
